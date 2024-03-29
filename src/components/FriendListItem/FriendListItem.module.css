@@ -1,0 +1,21 @@
+.wrapper {
+    img {
+        margin: 0 auto;
+    }
+
+    .name {
+        font-size: 26px;
+    }
+}
+
+
+
+
+.online {
+
+    color: limegreen;
+}
+
+.offline {
+    color: red;
+}
